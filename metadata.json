@@ -1,0 +1,8 @@
+{
+  "name": "GestureBridge",
+  "description": "A real-time AI Sign Language Interpreter using Gemini Live API to bridge communication gaps for the deaf and hard-of-hearing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
